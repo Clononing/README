@@ -1,0 +1,2 @@
+# README
+Lee para entender.
